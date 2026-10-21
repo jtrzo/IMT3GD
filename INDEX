@@ -4,7 +4,7 @@
 <head>
 <style>
 body {
-  background-image: url('tale.avif');
+  background-image: url('tale.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: cover;
